@@ -1,4 +1,4 @@
 FROM openjdk:18
-ADD target/springboot-java-eks.jar springboot-java-eks.jar
+ADD target/springboot-java.jar springboot-java.jar
 EXPOSE 8080
-ENTRYPOINT ["java","-jar","springboot-java-eks.jar"]
+ENTRYPOINT ["java","-jar","springboot-java.jar"]
