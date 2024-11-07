@@ -11,7 +11,7 @@
 	<groupId>com.javatech</groupId>
 	<artifactId>springboot-java</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
-	<name>springboot-java-eks</name>
+	<name>springboot-java</name>
 	<description>Demo project for Java Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
