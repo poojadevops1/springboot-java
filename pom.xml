@@ -48,7 +48,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>springboot-eks</finalName>
+		<finalName>springboot-java</finalName>
 	</build>
 
 </project>
